@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<people>
+	<person id="1">
+		<firstname>Johnny</firstname>
+		<lastname>Walker</lastname>
+		<age>44</age>
+		<balance>12300</balance>
+	</person>
+	<person id="2">
+		<firstname>Alexander</firstname>
+		<lastname>Kieth</lastname>
+		<age>55</age>
+		<balance>71700</balance>
+	</person>
+	<person id="3">
+		<firstname>Manny</firstname>
+		<lastname>Rodrigues</lastname>
+		<age>66</age>
+		<balance>44123</balance>
+	</person>
+	<person id="4">
+		<firstname>Sandy</firstname>
+		<lastname>Beach</lastname>
+		<age>33</age>
+		<balance>65321</balance>
+	</person>
+</people>

@@ -1,0 +1,18 @@
+[{
+	"firstname": "Ted",
+	"lastname": "Bundy",
+	"birthday": "20-June-1992",
+	"balance": 50000
+},
+{
+	"firstname": "Bob",
+	"lastname": "Thebuilder",
+	"birthday": "2-February-1965",
+	"balance": 25000
+},
+{
+	"firstname": "Susan",
+	"lastname": "Carbuckle",
+	"birthday": "17-August-1999",
+	"balance": 0
+}]
